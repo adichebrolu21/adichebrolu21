@@ -1,189 +1,129 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:05050a,50:0a0a14,100:05050a&height=220&section=header" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1&pause=100000&color=64FFDA&center=true&vCenter=true&width=300&lines=%E2%97%8F+SYSTEM+ONLINE" alt="status"/>
-
-<h1 align="center" style="letter-spacing:2px;">ADITYA CHEBROLU</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=1&pause=100000&color=8892B0&center=true&vCenter=true&width=500&lines=Engineer.+Builder.+Experimenter." alt="identity"/>
-
-<br/>
-
-<i>Building software, AI systems, and computer-vision tools —<br/>
-and occasionally something weirder that probably shouldn't exist.</i>
+<sub>⌘&nbsp;&nbsp;File&nbsp;&nbsp;&nbsp;Edit&nbsp;&nbsp;&nbsp;View&nbsp;&nbsp;&nbsp;Special</sub>
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/EMAIL-64FFDA?style=flat-square&labelColor=0a0a14&color=0a0a14&logo=gmail&logoColor=64FFDA)](mailto:adi.chebrolu21@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-64FFDA?style=flat-square&labelColor=0a0a14&color=0a0a14&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/aditya-chebrolu-5a0321277/)
-[![GitHub](https://img.shields.io/badge/GITHUB-64FFDA?style=flat-square&labelColor=0a0a14&color=0a0a14&logo=github&logoColor=64FFDA)](https://github.com/adichebrolu21)
+# ADITYA CHEBROLU
+
+`SYSTEM 01`
+
+### ENGINEER / RESEARCHER / BUILDER
+
+AI · SOFTWARE · COMPUTER VISION
+
+`STATUS: ONLINE`  ·  `BOOT COMPLETE`
 
 </div>
 
 <br/>
 
-```text
-$ whoami
-
-aditya@github:~$ ./profile.sh
-
-  STATUS      ONLINE
-  ROLE        DATA SCIENCE ENGINEER — B.TECH, SRM IST (2023–2027)
-  FOCUS       AI SYSTEMS · PREDICTIVE MODELING · EXPLAINABLE AI
-  MODE        BUILDING
-  LOCATION    BENGALURU, INDIA
-
-$ ./currently.sh
-  > Interning at Hindustan Aeronautics Limited — aerospace project ops
-  > Running Corporate Relations for FAST, SRM's NVIDIA-backed AI club
-  > Writing up neuro-symbolic reasoning research for publication
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E86AB,100:C13584&height=3" width="100%"/>
 
 <br/>
+
+## SYSTEM
+
+Final-year Data Science engineer at SRM IST. I build predictive
+models, reasoning systems, and the occasional experiment that
+doesn't need to exist but does anyway.
+
+Currently at Hindustan Aeronautics Limited, working aerospace
+project operations. Currently directing Corporate Relations at
+FAST, SRM's NVIDIA-backed AI club.
+
+<br/>
+
+## SELECTED SYSTEMS
+
+> ### AEROREASON
+> `MISSION // AEROREASON`  ·  `DOMAIN // AEROSPACE`
+>
+> Predictive intelligence for aircraft turbofan engine maintenance.
+> LSTM-based Remaining Useful Life estimation, fused with a LLaMA3
+> reasoning layer for explainable diagnostics — trained on the
+> NASA C-MAPSS benchmark.
+>
+> `PYTHON` `PYTORCH` `LSTM` `LLAMA3` `FASTAPI` `REACT`
+>
+> `STATUS // PUBLISHED` — ISJEM Vol. 05, Issue 05 · Impact Factor 8.072
+
+<br/>
+
+**MEDIVAULT**
+`SYSTEM 02 / HEALTHCARE INFRASTRUCTURE`
+
+Offline-first patient record system. Encrypted data over NFC
+(MIFARE DESFire EV1), an XGBoost risk classifier, and TrOCR
+prescription parsing.
+
+`FLUTTER` `FASTAPI` `MONGODB` `XGBOOST` `TROCR` `MISTRAL`
+`STATUS: BUILT — 2024`
+
+<br/>
+
+**TASTETONE**
+`SYSTEM 03 / OPEN SOURCE`
+
+Chrome extension running sentiment analysis on Zomato reviews —
+samples five, scores tone, surfaces the extremes.
+
+`JAVASCRIPT`
+`STATUS: PUBLIC` → [github.com/adichebrolu21/TasteTone](https://github.com/adichebrolu21/TasteTone)
+
+<br/>
+
+## EXPERIENCE
+
+**2026 — Hindustan Aeronautics Limited**
+Project Management Intern · aerospace project operations
+
+**2026 — AeroReason**
+Research published · ISJEM, Impact Factor 8.072
+
+**2025 — FAST × NVIDIA × SRM**
+Founding Member & Head of Corporate Relations
+
+**2025 — National Hackathon**
+Directed · ₹3,00,000 prize pool · BMW / NVIDIA / Belden sponsors
+
+**2024 — Coratia Technologies**
+Data Science Intern
+
+**2024 — CodeNex "Day 0"**
+Top 10 · National Hackathon
+
+<sub>SAP Certified Data Analyst — SAP Analytics Cloud · NPTEL: Programming in Java (IIT Kharagpur), DBMS (IIT Bhubaneswar)</sub>
+
+<br/>
+
+## SYSTEM SPECIFICATIONS
+
+| | |
+|---|---|
+| **LANGUAGES** | Python · JavaScript · SQL |
+| **AI / ML** | PyTorch · XGBoost · LSTM · TrOCR · NLP · LLaMA3 · Mistral |
+| **SYSTEMS** | FastAPI · React · Flutter · MongoDB · Flask · Node.js |
+| **HARDWARE** | NFC · MIFARE DESFire |
+
+<br/>
+
+## SIGNAL
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adichebrolu21&theme=minimal&hide_border=true&area=true&color=2E86AB&line=2E86AB&point=C13584" width="100%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C13584,100:2E86AB&height=3" width="100%"/>
 
 <div align="center">
 
-<sub>─────────────────────  FEATURED SYSTEMS  ─────────────────────</sub>
-
-</div>
-
 <br/>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  01 / RESEARCH                                                │
-│                                                                │
-│  AEROREASON                                                   │
-│  Hybrid neuro-symbolic predictive maintenance for aircraft    │
-│  turbofan engines. LSTM-based RUL prediction fused with a     │
-│  LLaMA3 chain-of-thought reasoning layer over NASA C-MAPSS.   │
-│                                                                │
-│  PYTHON · PYTORCH · LLAMA3 · FASTAPI · REACT                  │
-│                                                                │
-│  Published — ISJEM Vol.05, Issue 05 · IF 8.072 · May 2026     │
-└──────────────────────────────────────────────────────────────┘
+`NODE // ADI-01`&nbsp;&nbsp;·&nbsp;&nbsp;`SIGNAL // STABLE`
 
-┌──────────────────────────────────────────────────────────────┐
-│  02 / BUILD                                                   │
-│                                                                │
-│  MEDIVAULT                                                    │
-│  Offline-first healthcare record system using NFC             │
-│  (MIFARE DESFire EV1) for encrypted patient data, paired      │
-│  with an XGBoost risk classifier and TrOCR prescription OCR.  │
-│                                                                │
-│  FLUTTER · FASTAPI · MONGODB · XGBOOST · TROCR · MISTRAL       │
-└──────────────────────────────────────────────────────────────┘
+### ● ONLINE
 
-┌──────────────────────────────────────────────────────────────┐
-│  03 / OPEN SOURCE                                              │
-│                                                                │
-│  TASTETONE                                                    │
-│  Chrome extension that runs live sentiment analysis on        │
-│  Zomato reviews — samples five reviews, scores their tone,    │
-│  and surfaces the most and least positive ones instantly.     │
-│                                                                │
-│  JAVASCRIPT                                                   │
-│                                                                │
-│  [ VIEW REPOSITORY → ](https://github.com/adichebrolu21/TasteTone)
-└──────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-<div align="center">
-
-<sub>─────────────────────────  STACK  ─────────────────────────</sub>
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td valign="top" width="25%">
-
-**`LANGUAGES`**
-Python
-JavaScript
-SQL
-
-</td>
-<td valign="top" width="25%">
-
-**`AI / ML`**
-PyTorch
-XGBoost · Scikit-learn
-LSTM · TrOCR · NLP
-LLaMA3 · Mistral
-
-</td>
-<td valign="top" width="25%">
-
-**`SYSTEMS`**
-FastAPI · Flask
-Node.js · MongoDB
-React · Flutter
-
-</td>
-<td valign="top" width="25%">
-
-**`TOOLING`**
-Git
-NFC (MIFARE DESFire)
-SAP Analytics Cloud
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<sub>───────────────────────  RECORD  ───────────────────────</sub>
-
-</div>
-
-<br/>
-
-```text
-2026   Project Management Intern — Hindustan Aeronautics Limited (HAL)
-2026   AeroReason accepted — ISJEM, Impact Factor 8.072
-2025   Founding Member & Head of Corporate Relations — FAST (NVIDIA × SRM)
-2025   Directed national hackathon — ₹3,00,000 prize pool, BMW/NVIDIA/Belden sponsors
-2024   Data Science Intern — Coratia Technologies
-2024   Top 10 — CodeNex "Day 0" National Hackathon
-       SAP Certified Data Analyst — SAP Analytics Cloud
-       NPTEL — Programming in Java (IIT Kharagpur), DBMS (IIT Bhubaneswar)
-```
-
-<br/>
-
-<div align="center">
-
-<sub>─────────────────────  ACTIVITY  ─────────────────────</sub>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adichebrolu21&theme=react-dark&bg_color=05050a&color=64FFDA&line=64FFDA&point=ffffff&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>SYSTEM STATUS</sub>
-
-### `[ ONLINE ]`
-
-Still building.
-
-─────────────────────────
-
-<sub>© ADITYA CHEBROLU</sub>
+Building things that shouldn't exist.
 
 </div>
