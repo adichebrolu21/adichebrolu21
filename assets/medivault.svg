@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#D2691E"/><stop offset="1" stop-color="#E8B94E"/></linearGradient></defs>
+<style>
+text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}
+.t{font-size:26px;font-weight:700;fill:#f0f6fc}
+.s{font-size:11px;fill:#8b949e;letter-spacing:1.6px}
+.d{font-size:13px;fill:#9da7b3}
+.c{font-size:10px;fill:#c9d1d9;letter-spacing:.8px}
+.in{animation:in .9s ease both}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style>
+<rect x=".5" y=".5" width="439" height="219" rx="14" fill="url(#bg)" stroke="#30363d"/>
+<rect x="24" y="0" width="60" height="3" rx="1.5" fill="url(#ac)"/>
+<g class="in"><text x="30" y="56" class="t">MediVault</text><text x="30" y="78" class="s m">OFFLINE-FIRST · NFC · ML</text><text x="30" y="116" class="d">Encrypted records, tap to open,</text><text x="30" y="136" class="d">no network needed.</text><rect x="30" y="158" width="66" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="63" y="173" text-anchor="middle" class="c m" style="fill:#c9d1d9">XGBOOST</text><rect x="104.30000000000001" y="158" width="52" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="131" y="173" text-anchor="middle" class="c m" style="fill:#c9d1d9">TROCR</text><rect x="30" y="184" width="66" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="63" y="199" text-anchor="middle" class="c m" style="fill:#c9d1d9">MISTRAL</text><rect x="104.30000000000001" y="184" width="115" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="162" y="199" text-anchor="middle" class="c m" style="fill:#8b949e">MIFARE DESFIRE</text><circle cx="335" cy="112" r="20" fill="none" stroke="#BC8CFF" stroke-width="1.6"><animate attributeName="r" from="22" to="64" dur="3s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" from=".8" to="0" dur="3s" begin="0s" repeatCount="indefinite"/></circle><circle cx="335" cy="112" r="20" fill="none" stroke="#BC8CFF" stroke-width="1.6"><animate attributeName="r" from="22" to="64" dur="3s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" from=".8" to="0" dur="3s" begin="1s" repeatCount="indefinite"/></circle><circle cx="335" cy="112" r="20" fill="none" stroke="#BC8CFF" stroke-width="1.6"><animate attributeName="r" from="22" to="64" dur="3s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" from=".8" to="0" dur="3s" begin="2s" repeatCount="indefinite"/></circle><rect x="313" y="97" width="44" height="30" rx="5" fill="#161b22" stroke="#BC8CFF" stroke-width="1.6"/><rect x="319" y="104" width="10" height="8" rx="1.5" fill="#BC8CFF"/><rect x="319" y="117" width="30" height="3" rx="1.5" fill="#30363d"/></g></svg>

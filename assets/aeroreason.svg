@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#D2691E"/><stop offset="1" stop-color="#E8B94E"/></linearGradient></defs>
+<style>
+text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}
+.t{font-size:26px;font-weight:700;fill:#f0f6fc}
+.s{font-size:11px;fill:#8b949e;letter-spacing:1.6px}
+.d{font-size:13px;fill:#9da7b3}
+.c{font-size:10px;fill:#c9d1d9;letter-spacing:.8px}
+.in{animation:in .9s ease both}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes dr{0%{stroke-dashoffset:480}60%,100%{stroke-dashoffset:0}}
+.cv{stroke-dasharray:480;animation:dr 5s ease-in-out infinite}
+@keyframes bub{0%,55%{opacity:0}68%,92%{opacity:1}100%{opacity:0}}
+.bu{animation:bub 5s ease-in-out infinite;opacity:0}</style>
+<rect x=".5" y=".5" width="899" height="199" rx="14" fill="url(#bg)" stroke="#30363d"/>
+<rect x="24" y="0" width="60" height="3" rx="1.5" fill="url(#ac)"/>
+<g class="in"><text x="32" y="60" class="t">AeroReason</text><text x="32" y="82" class="s m">PREDICTIVE MAINTENANCE · AEROSPACE</text><text x="32" y="118" class="d">An LSTM predicts remaining engine life;</text><text x="32" y="138" class="d">LLaMA3 explains it to the engineer.</text><rect x="32" y="156" width="80" height="22" rx="11" fill="#161b22" stroke="#238636"/><text x="72" y="171" text-anchor="middle" class="c m" style="fill:#3fb950">PUBLISHED</text><rect x="120.1" y="156" width="149" height="22" rx="11" fill="#161b22" stroke="#1f6feb"/><text x="195" y="171" text-anchor="middle" class="c m" style="fill:#58A6FF">IMPACT FACTOR 8.072</text><rect x="277.2" y="156" width="101" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="328" y="171" text-anchor="middle" class="c m" style="fill:#8b949e">NASA C-MAPSS</text><line x1="470" y1="40" x2="470" y2="170" stroke="#30363d"/><line x1="470" y1="170" x2="870" y2="170" stroke="#30363d"/><line x1="470" y1="146" x2="870" y2="146" stroke="#f85149" stroke-dasharray="4 4" opacity=".6"/><text x="866" y="141" text-anchor="end" class="m" style="font-size:9px;fill:#f85149;letter-spacing:1.5px">FAILURE</text><path d="M480 70 C 520 72, 560 66, 600 84 S 690 104, 730 122 S 810 150, 850 160" fill="none" stroke="#D2691E" stroke-width="2.5" stroke-linecap="round" class="cv"/><circle r="5" fill="#E8B94E"><animateMotion dur="5s" repeatCount="indefinite" path="M480 70 C 520 72, 560 66, 600 84 S 690 104, 730 122 S 810 150, 850 160" keyPoints="0;1;1" keyTimes="0;.6;1" calcMode="linear"/></circle><g class="bu"><rect x="640" y="44" width="200" height="26" rx="13" fill="#161b22" stroke="#58A6FF"/><text x="740" y="61" text-anchor="middle" class="m" style="font-size:10px;fill:#58A6FF;letter-spacing:1px">→ MAINTENANCE RECOMMENDATION</text></g></g></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#D2691E"/><stop offset="1" stop-color="#E8B94E"/></linearGradient></defs>
+<style>
+text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}
+.t{font-size:26px;font-weight:700;fill:#f0f6fc}
+.s{font-size:11px;fill:#8b949e;letter-spacing:1.6px}
+.d{font-size:13px;fill:#9da7b3}
+.c{font-size:10px;fill:#c9d1d9;letter-spacing:.8px}
+.in{animation:in .9s ease both}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes sweep{from{transform:translateX(0)}to{transform:translateX(120px)}}
+.sw{animation:sweep 3.2s ease-in-out infinite alternate}
+@keyframes bl{0%,100%{opacity:.25}50%{opacity:1}}
+.bl{animation:bl 1.4s ease-in-out infinite}</style>
+<rect x=".5" y=".5" width="439" height="219" rx="14" fill="url(#bg)" stroke="#30363d"/>
+<rect x="24" y="0" width="60" height="3" rx="1.5" fill="url(#ac)"/>
+<g class="in"><circle cx="30" cy="34" r="4" fill="#238636"/><circle cx="30" cy="34" r="4" fill="none" stroke="#3fb950"><animate attributeName="r" from="4" to="12" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" from=".9" to="0" dur="1.8s" repeatCount="indefinite"/></circle><text x="44" y="38" class="m" style="font-size:10px;fill:#3fb950;letter-spacing:1.5px">LIVE · UNDER NDA</text><text x="30" y="84" class="t">Veri Measure</text><text x="30" y="106" class="s m">OCR · COMPUTER VISION</text><text x="30" y="142" class="d">Reads and measures from images.</text><text x="30" y="162" class="d">Same client, same NDA.</text><rect x="30" y="180" width="94" height="22" rx="11" fill="#161b22" stroke="#30363d"/><text x="77" y="195" text-anchor="middle" class="c m" style="fill:#c9d1d9">CLIENT WORK</text><rect x="131.9" y="180" width="39" height="22" rx="11" fill="#161b22" stroke="#8b949e"/><text x="151" y="195" text-anchor="middle" class="c m" style="fill:#8b949e">NDA</text><line x1="262" y1="66" x2="262" y2="82" stroke="#484f58"/><line x1="272" y1="66" x2="272" y2="74" stroke="#484f58"/><line x1="282" y1="66" x2="282" y2="74" stroke="#484f58"/><line x1="292" y1="66" x2="292" y2="74" stroke="#484f58"/><line x1="302" y1="66" x2="302" y2="74" stroke="#484f58"/><line x1="312" y1="66" x2="312" y2="82" stroke="#484f58"/><line x1="322" y1="66" x2="322" y2="74" stroke="#484f58"/><line x1="332" y1="66" x2="332" y2="74" stroke="#484f58"/><line x1="342" y1="66" x2="342" y2="74" stroke="#484f58"/><line x1="352" y1="66" x2="352" y2="74" stroke="#484f58"/><line x1="362" y1="66" x2="362" y2="82" stroke="#484f58"/><line x1="372" y1="66" x2="372" y2="74" stroke="#484f58"/><line x1="382" y1="66" x2="382" y2="74" stroke="#484f58"/><rect x="262" y="100" width="120" height="70" rx="6" fill="#21262d" stroke="#30363d"/><path d="M262 112v-12h12M382 112v-12h-12M262 158v12h12M382 158v12h-12" fill="none" stroke="#D2691E" stroke-width="2"/><g class="sw"><line x1="262" y1="70" x2="262" y2="176" stroke="#58A6FF" stroke-dasharray="3 3"/><polygon points="256,62 268,62 262,72" fill="#58A6FF"/></g><text x="322" y="196" text-anchor="middle" class="m bl" style="font-size:10px;fill:#58A6FF;letter-spacing:2px">MEASURING…</text></g></svg>
